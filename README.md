@@ -33,10 +33,10 @@ Traditional stock prediction systems rely mainly on historical price data. Howev
 
 This project improves prediction performance by combining:
 
-✅ Technical indicators from stock prices
-✅ NLP-based sentiment analysis from financial news
-✅ Deep learning sequence models
-✅ Ensemble learning methods
+✅ Technical indicators from stock prices   
+✅ NLP-based sentiment analysis from financial news    
+✅ Deep learning sequence models    
+✅ Ensemble learning methods    
 
 The final system compares multiple models and evaluates their performance using classification metrics.
 
